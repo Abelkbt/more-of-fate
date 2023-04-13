@@ -1,0 +1,51 @@
+
+.circle {
+    border-radius: 50%;
+    background-color: blueviolet;
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    border: 3px solid green;
+    color: #fff;
+
+
+}
+
+/* .card {
+    display: flex;
+    flex-direction: column;
+    box-shadow: #fff;
+    padding: 2px 16px;
+} */
+
+.sec{
+  display: flex;
+  flex-direction: row;
+  margin: 60px;
+
+}
+.card{
+    border: 2px;
+    width: 200px;
+    text-align: center;
+    align-items: center;
+    color: black;
+    height: 400px;
+    background-color: rgb(56, 56, 146);
+    padding: 20px;
+    font-size: medium;
+    border-radius: 10px;
+    color: #fff;
+
+    
+
+}
+.card-2{
+    border: 2px smoke white;  
+    width: 200px;
+    height: 440px ;
+    text-align: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
